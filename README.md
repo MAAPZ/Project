@@ -23,7 +23,7 @@ Modern computers and the internet.
 
 ## Curriculum
 
-- [Understanding Computer and Programming](https://drive.google.com/file/d/0B5rJcGaAXTjVcHg2RHVmcDhNcWM/view?usp=sharing)
+- [Understanding Computer and Programming](https://drive.google.com/file/d/0B5rJcGaAXTjVcHg2RHVmcDhNcWM/view?usp=sharing) (pt-BR)
   - Hardware / Software
   - Operating Systems and Programs
   - Programming languages
@@ -31,7 +31,7 @@ Modern computers and the internet.
   - Open Source, or Open Source
   - Terminal
 
-- [Programming logic](https://drive.google.com/file/d/0B5rJcGaAXTjVYTBzYUFUT3BkYUk/view?usp=sharing)
+- [Programming logic](https://drive.google.com/file/d/0B5rJcGaAXTjVYTBzYUFUT3BkYUk/view?usp=sharing) (pt-BR)
   - What is logic?
   - Logical Sequence
   - Instructions
