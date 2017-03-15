@@ -1,6 +1,7 @@
 ![alt text](https://s3.amazonaws.com/opensourceprojects/maapz-logo.png)
 # Point do MAAP'Z 
 
+([*Em português*](/README_pt-BR.md))
 ## Description
 
 Teach young people from poor communities how to program, focusing on applications for smartphones. The project will be hosted at [Casa do Zezinho](http://casadozezinho.org.br)
