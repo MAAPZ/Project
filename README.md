@@ -1,3 +1,4 @@
+![alt text](https://s3.amazonaws.com/opensourceprojects/maapz-logo.png)
 # Point do MAAP'Z 
 
 ## Description
