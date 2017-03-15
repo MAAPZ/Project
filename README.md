@@ -43,7 +43,7 @@ Modern computers and the internet.
   - Installing and Running
   - Variables, Functions, Conditions, and Loop
 
-- Creating the first JavaScript project
+- Creating the first project in JavaScript
 - Source Control
   - Git, Mercurial
   - Github
