@@ -29,7 +29,7 @@ Modern computers and the internet.
   - Operating Systems and Programs
   - Programming languages
   - Famous Programmers
-  - Open Source, or Open Source
+  - Open Source
   - Terminal
 
 - [Programming logic](https://drive.google.com/file/d/0B5rJcGaAXTjVYTBzYUFUT3BkYUk/view?usp=sharing) (pt-BR)
