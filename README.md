@@ -32,10 +32,10 @@ Modern computers and the internet.
 
 - [Programming logic](https://drive.google.com/file/d/0B5rJcGaAXTjVYTBzYUFUT3BkYUk/view?usp=sharing) (pt-BR)
   - What is logic?
-  - Logical Sequence
-  - Instructions
-  - Algorithm
-  - Programs
+  - Logical Sequence
+  - Instructions
+  - Algorithms
+  - Programs
  
 - Programming in JavaScript language
   - What is the JavaScript language?
