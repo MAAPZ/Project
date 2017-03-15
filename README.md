@@ -3,7 +3,7 @@
 
 ## Description
 
-Teach young people from poor communities how to program, focusing on applications for smartphones. The project will be held at [Casa do Zezinho](http://casadozezinho.org.br)
+Teach young people from poor communities how to program, focusing on applications for smartphones. The project will be hosted at [Casa do Zezinho](http://casadozezinho.org.br)
 
 ## Goal
 
