@@ -1,9 +1,8 @@
-# Point do MAAP'Z
-The "Point do MAAP'Z" Project Description
+# Point do MAAP'Z 
 
 ## Description
 
-Teach young people from poor communities how to program, focusing on applications for smartphones.
+Teach young people from poor communities how to program, focusing on applications for smartphones. The project will be held at [Casa do Zezinho](http://casadozezinho.org.br)
 
 ## Goal
 
@@ -19,7 +18,7 @@ Teach the basics of programing, so they can intern into companies, or use code t
 
 ## Needed Infrastructure 
 
-Modern computers and the internet.
+Modern computers and the internet. 
 
 ## Curriculum
 
@@ -56,3 +55,10 @@ Modern computers and the internet.
 
 ## Resources
 [Lógica de Programação](http://www.inf.ufsc.br/~vania.bogorny/teaching/ine5231/Logica.pdf)
+
+## We need YOU :) 
+
+If you wish to help, open an issue, or send an email to pointdomaapz@gmail.com
+
+![alt text](https://s3.amazonaws.com/opensourceprojects/IMG_2230.JPG)
+*This is us after writing our first 'Hello World'*
