@@ -32,6 +32,8 @@ Computadores modernos e internet.
   - Instruções
   - Algoritmo
   - Programas
+  
+ - [Entendendo Programas de Computador](https://drive.google.com/open?id=0B5rJcGaAXTjVVkphUDJzeVdKOWM)
 
 - Programação na linguagem JavaScript
   - O que é a linguagem JavaScript
