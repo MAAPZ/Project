@@ -25,6 +25,8 @@ Computadores modernos e internet.
   - Programadores Famosos
   - Open Source, ou Código Aberto
   - Terminal
+  
+- [Entendendo Programas de Computador](https://drive.google.com/open?id=0B5rJcGaAXTjVVkphUDJzeVdKOWM)
 
 - [Lógica de programação](https://drive.google.com/file/d/0B5rJcGaAXTjVYTBzYUFUT3BkYUk/view?usp=sharing)
   - O que é lógica?
@@ -32,8 +34,6 @@ Computadores modernos e internet.
   - Instruções
   - Algoritmo
   - Programas
-  
- - [Entendendo Programas de Computador](https://drive.google.com/open?id=0B5rJcGaAXTjVVkphUDJzeVdKOWM)
 
 - Programação na linguagem JavaScript
   - O que é a linguagem JavaScript
