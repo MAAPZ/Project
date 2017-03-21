@@ -32,7 +32,7 @@ Modern computers and the internet.
   - Open Source
   - Terminal
   
- - [Understanding computer programs](https://drive.google.com/open?id=0B5rJcGaAXTjVVkphUDJzeVdKOWM)
+ - [Understanding computer programs](https://drive.google.com/open?id=0B5rJcGaAXTjVVkphUDJzeVdKOWM) (pt-BR)
 
 - [Programming logic](https://drive.google.com/file/d/0B5rJcGaAXTjVYTBzYUFUT3BkYUk/view?usp=sharing) (pt-BR)
   - What is logic?
