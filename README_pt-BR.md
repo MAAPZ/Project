@@ -36,6 +36,7 @@ Computadores modernos e internet.
   - Programas
   
 - [O que são variáveis em programas?](https://drive.google.com/open?id=0B5rJcGaAXTjVR3FjNW5LNzJtY00)
+- [Construindo Algoritmos](https://drive.google.com/open?id=0B5rJcGaAXTjVSEJubTY3ZFBHLVU)
 
 - Programação na linguagem JavaScript
   - O que é a linguagem JavaScript
