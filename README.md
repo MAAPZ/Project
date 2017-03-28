@@ -40,6 +40,9 @@ Modern computers and the internet.
   - Instructions
   - Algorithms
   - Programs
+  
+- [What are variables on programs?](https://drive.google.com/open?id=0B5rJcGaAXTjVR3FjNW5LNzJtY00) (pt-BR)
+
  
 - Programming in JavaScript language
   - What is the JavaScript language?
