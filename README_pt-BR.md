@@ -41,6 +41,8 @@ Computadores modernos e internet.
 
 - [Diagrama de bloco e operadores lógicos](https://drive.google.com/open?id=0B5rJcGaAXTjVb3dNNkxWWUVxSmM)
 
+- [Estrutura de Decisão](https://drive.google.com/open?id=0B5rJcGaAXTjVSnhFRkhvWWE2RTA)
+
 - Programação na linguagem JavaScript
   - O que é a linguagem JavaScript
   - Instalando e rodando
