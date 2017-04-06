@@ -43,6 +43,10 @@ Modern computers and the internet.
   
 - [What are variables on programs?](https://drive.google.com/open?id=0B5rJcGaAXTjVR3FjNW5LNzJtY00) (pt-BR)
 
+- [Block diagrams and logic operators](https://drive.google.com/open?id=0B5rJcGaAXTjVb3dNNkxWWUVxSmM)
+
+- [Decision structure](https://drive.google.com/open?id=0B5rJcGaAXTjVSnhFRkhvWWE2RTA)
+
  
 - Programming in JavaScript language
   - What is the JavaScript language?
