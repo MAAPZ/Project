@@ -43,6 +43,8 @@ Computadores modernos e internet.
 
 - [Estrutura de Decisão](https://drive.google.com/open?id=0B5rJcGaAXTjVSnhFRkhvWWE2RTA)
 
+- [Comandos de Repetição](https://drive.google.com/open?id=0B5rJcGaAXTjVeFVuTzhfS2piamM)
+
 - Programação na linguagem JavaScript
   - O que é a linguagem JavaScript
   - Instalando e rodando
