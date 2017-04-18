@@ -43,9 +43,13 @@ Modern computers and the internet.
   
 - [What are variables on programs?](https://drive.google.com/open?id=0B5rJcGaAXTjVR3FjNW5LNzJtY00) (pt-BR)
 
-- [Block diagrams and logic operators](https://drive.google.com/open?id=0B5rJcGaAXTjVb3dNNkxWWUVxSmM)
+- [Block diagrams and logic operators](https://drive.google.com/open?id=0B5rJcGaAXTjVb3dNNkxWWUVxSmM) (pt-BR)
 
-- [Decision structure](https://drive.google.com/open?id=0B5rJcGaAXTjVSnhFRkhvWWE2RTA)
+- [Decision structure](https://drive.google.com/open?id=0B5rJcGaAXTjVSnhFRkhvWWE2RTA) (pt-BR)
+
+- [Repetition Commands](https://drive.google.com/open?id=0B5rJcGaAXTjVeFVuTzhfS2piamM) (pt-BR)
+
+- [Project: System for Restaurants](https://drive.google.com/open?id=0B5rJcGaAXTjVV05pVGJJR1BlRms) (pt-BR)
 
  
 - Programming in JavaScript language
