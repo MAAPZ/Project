@@ -45,6 +45,8 @@ Computadores modernos e internet.
 
 - [Comandos de Repetição](https://drive.google.com/open?id=0B5rJcGaAXTjVeFVuTzhfS2piamM)
 
+- [Projeto: Sistema para Restaurantes](https://drive.google.com/open?id=0B5rJcGaAXTjVV05pVGJJR1BlRms)
+
 - Programação na linguagem JavaScript
   - O que é a linguagem JavaScript
   - Instalando e rodando
