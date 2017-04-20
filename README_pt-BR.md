@@ -47,6 +47,8 @@ Computadores modernos e internet.
 
 - [Projeto: Sistema para Restaurantes](https://drive.google.com/open?id=0B5rJcGaAXTjVV05pVGJJR1BlRms)
 
+- [Vetores em programação](https://drive.google.com/open?id=0B5rJcGaAXTjVdjN3UUlBZkpaQTA)
+
 - Programação na linguagem JavaScript
   - O que é a linguagem JavaScript
   - Instalando e rodando
