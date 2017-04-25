@@ -49,7 +49,7 @@ Computadores modernos e internet.
 
 - [Vetores em programação](https://drive.google.com/open?id=0B5rJcGaAXTjVdjN3UUlBZkpaQTA)
 
-- Programação na linguagem JavaScript
+- [Programação na linguagem JavaScript](https://drive.google.com/open?id=0B5rJcGaAXTjVUHFDMDFYTnB3cUU)
   - O que é a linguagem JavaScript
   - Instalando e rodando
   - Variáveis, funções, condições e loop
