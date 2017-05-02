@@ -53,6 +53,8 @@ Computadores modernos e internet.
   - O que é a linguagem JavaScript
   - Instalando e rodando
   - Variáveis, funções, condições e loop
+  
+- [Web dev minicurso](https://drive.google.com/open?id=0B5rJcGaAXTjVVThuRW9YX2FMRHM)
 
 - Criação do primeiro projeto em JavaScript 
 - Controle de fonte (Source Control)	
