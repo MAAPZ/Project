@@ -55,6 +55,7 @@ Computadores modernos e internet.
   - Variáveis, funções, condições e loop
   
 - [Web dev minicurso](https://drive.google.com/open?id=0B5rJcGaAXTjVVThuRW9YX2FMRHM)
+- [Web dev minicurso 2](https://drive.google.com/open?id=0B5rJcGaAXTjVYVNsbDlnVWJzRnM)
 
 - Criação do primeiro projeto em JavaScript 
 - Controle de fonte (Source Control)	
