@@ -74,6 +74,3 @@ Modern computers and the internet.
 ## We need YOU :) 
 
 If you wish to help, open an issue or send an email to pointdomaapz@gmail.com
-
-![alt text](https://s3.amazonaws.com/opensourceprojects/IMG_2230.JPG)
-*This is us after running our first 'Hello World'*
