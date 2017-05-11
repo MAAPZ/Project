@@ -57,6 +57,7 @@ Computadores modernos e internet.
 - [Web dev minicurso](https://drive.google.com/open?id=0B5rJcGaAXTjVVThuRW9YX2FMRHM)
 - [Web dev minicurso 2](https://drive.google.com/open?id=0B5rJcGaAXTjVYVNsbDlnVWJzRnM)
 - [Manipulando CSS via JS](https://drive.google.com/open?id=0B5rJcGaAXTjVUlp5RnZDTktMdnM)
+- [Introdução a React Native](https://drive.google.com/open?id=0B5rJcGaAXTjVTktWVHhtdERwQ3c)
 
 - Criação do primeiro projeto em JavaScript 
 - Controle de fonte (Source Control)	
