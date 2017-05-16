@@ -58,14 +58,11 @@ Computadores modernos e internet.
 - [Web dev minicurso 2](https://drive.google.com/open?id=0B5rJcGaAXTjVYVNsbDlnVWJzRnM)
 - [Manipulando CSS via JS](https://drive.google.com/open?id=0B5rJcGaAXTjVUlp5RnZDTktMdnM)
 - [Introdução a React Native](https://drive.google.com/open?id=0B5rJcGaAXTjVTktWVHhtdERwQ3c)
+- [Objetos JavaScript e Outros Reactive Components](https://drive.google.com/open?id=0B5rJcGaAXTjVdW5mdGt2V3E1Znc)
 
-- Criação do primeiro projeto em JavaScript 
 - Controle de fonte (Source Control)	
   - Git, Mercurial
   - Github		
-- Introdução a desenvolvimento Móvel
-- Introdução a React Native
-- Criação do um app usando React Native 
 - Projeto Final 
 - Conclusão
 
