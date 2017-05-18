@@ -59,6 +59,7 @@ Computadores modernos e internet.
 - [Manipulando CSS via JS](https://drive.google.com/open?id=0B5rJcGaAXTjVUlp5RnZDTktMdnM)
 - [Introdução a React Native](https://drive.google.com/open?id=0B5rJcGaAXTjVTktWVHhtdERwQ3c)
 - [Objetos JavaScript e Outros Reactive Components](https://drive.google.com/open?id=0B5rJcGaAXTjVdW5mdGt2V3E1Znc)
+- [Primero App: Calculadora de Média](https://drive.google.com/open?id=0B5rJcGaAXTjVdldyMzdiMU04VEk)
 
 - Controle de fonte (Source Control)	
   - Git, Mercurial
