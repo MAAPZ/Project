@@ -51,11 +51,19 @@ Modern computers and the internet.
 
 - [Project: System for Restaurants](https://drive.google.com/open?id=0B5rJcGaAXTjVV05pVGJJR1BlRms) (pt-BR)
 
- 
-- Programming in JavaScript language
+- [Programming in JavaScript language](https://drive.google.com/open?id=0B5rJcGaAXTjVUHFDMDFYTnB3cUU)
   - What is the JavaScript language?
   - Installing and Running
   - Variables, Functions, Conditions, and Loop
+  
+- [Web dev mini course](https://drive.google.com/open?id=0B5rJcGaAXTjVVThuRW9YX2FMRHM)(pt-BR)
+- [Web dev mini course 2](https://drive.google.com/open?id=0B5rJcGaAXTjVYVNsbDlnVWJzRnM)(pt-BR)
+- [Manipulating CSS via JS](https://drive.google.com/open?id=0B5rJcGaAXTjVUlp5RnZDTktMdnM)(pt-BR)
+- [Introduction to React Native](https://drive.google.com/open?id=0B5rJcGaAXTjVTktWVHhtdERwQ3c)(pt-BR)
+- [JavaScript Objects and Other Reactive Components](https://drive.google.com/open?id=0B5rJcGaAXTjVdW5mdGt2V3E1Znc)(pt-BR)
+- [First App: School Average Calculator](https://drive.google.com/open?id=0B5rJcGaAXTjVdldyMzdiMU04VEk)(pt-BR)
+- [Internal App Navigation](https://drive.google.com/open?id=0B5rJcGaAXTjVTm5TanFpaTFpczg)(pt-BR)
+
 
 - Creating the first project in JavaScript
 - Source Control
@@ -74,3 +82,8 @@ Modern computers and the internet.
 ## We need YOU :) 
 
 If you wish to help, open an issue or send an email to pointdomaapz@gmail.com
+
+![alt text](https://s3.amazonaws.com/opensourceprojects/IMG_2230.JPG)
+*This is us after running our first 'Hello World'*
+ Lock conversation
+
