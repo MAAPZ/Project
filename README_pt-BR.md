@@ -61,6 +61,7 @@ Computadores modernos e internet.
 - [Objetos JavaScript e Outros Reactive Components](https://drive.google.com/open?id=0B5rJcGaAXTjVdW5mdGt2V3E1Znc)
 - [Primero App: Calculadora de Média](https://drive.google.com/open?id=0B5rJcGaAXTjVdldyMzdiMU04VEk)
 - [Navegação interna do App](https://drive.google.com/open?id=0B5rJcGaAXTjVTm5TanFpaTFpczg)
+- [Criando Estilos para Componentes](https://drive.google.com/open?id=0B5rJcGaAXTjVMDRpVzdFLTVzTlE)
 
 - Controle de fonte (Source Control)	
   - Git, Mercurial
