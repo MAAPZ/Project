@@ -63,7 +63,7 @@ Computadores modernos e internet.
 - [Navegação interna do App](https://drive.google.com/open?id=0B5rJcGaAXTjVTm5TanFpaTFpczg)
 - [Criando Estilos para Componentes](https://drive.google.com/open?id=0B5rJcGaAXTjVMDRpVzdFLTVzTlE)
 
-- Controle de fonte (Source Control)	
+- [Controle de fonte (Source Control)](https://drive.google.com/open?id=0B5rJcGaAXTjVS180TEE0eHpZNzQ)	
   - Git, Mercurial
   - Github		
 - Projeto Final 
